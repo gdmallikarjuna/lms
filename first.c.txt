@@ -1,5 +1,0 @@
-#include<studio.h>
-void main(){
-printf("welcome to github");
-}
-
